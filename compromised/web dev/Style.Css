@@ -1,0 +1,212 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ .First{
+
+    background-color:   rgb(98, 98, 214);
+    height: 50px;
+    width: 1424px;
+    margin-left: -8px;
+    margin-top: -8px;
+    display: inline-block;
+    
+} 
+
+
+
+.Second{
+
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    width: 350px;
+    margin-left: -8px;
+    margin-top: 0px;
+    display: inline-block;
+    overflow: hidden;
+    float : left;
+    
+} 
+
+
+
+/* .b1{
+    border: 2px solid red;
+    border-radius: 5px; 
+    padding-top: -100px; 
+    background-color: white; 
+    margin-top: 10px; 
+    border: solid 1px ; 
+    color:green; 
+    font-size: 13px; 
+    height: 25px;  
+    width: 90px;
+    display: inline-block;
+    padding: 20px 20px 0px 10px ;
+        
+    ;
+} */
+
+
+#b1:hover{
+
+    background-color:rgb(159, 159, 236);
+    color: white;
+
+}
+
+
+.b1{
+    
+    color: white; 
+    text-decoration-color: white; 
+    background-color: rgb(98, 98, 214);     
+    border: thick; cursor: pointer; 
+    height: 38px; width: 55px;  
+    margin-top: 20px; margin-left: 150px; 
+    border-radius: 25px ; 
+    
+}
+
+.b2
+{
+
+    color: black; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 70px;  
+    margin-top: 21px; margin-left: -2px; 
+    border-radius: 25px ; 
+}
+
+.b3
+{
+
+    color: black; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 100px;  
+    margin-top: 21px; margin-left: 8px; 
+    border-radius: 25px ; 
+}
+.b4
+{
+
+    color: black; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 100px;  
+    margin-top: 21px; margin-left: 8px; 
+    border-radius: 25px ; 
+}
+.b5
+{
+
+    color: black; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 100px;  
+    margin-top: 21px; margin-left: 8px; 
+    border-radius: 25px ; 
+}
+
+.b6
+{
+
+    color: black; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 70px;  
+    margin-top: 21px; margin-left: 15px; 
+    border-radius: 25px ; 
+}
+.b7
+{
+
+    color: black; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 70px;  
+    margin-top: 21px; margin-left: -2px; 
+    border-radius: 25px ; 
+}
+.b8
+{
+
+    color: black; 
+    text-decoration-color: white; 
+    background-color: white;
+    border: thick; cursor: pointer; 
+    height: 35px; width: 60px;  
+    margin-top: 21px; margin-left: -2px; 
+    border-radius: 25px ; 
+}
+.b9
+{
+
+    color: rgb(238, 234, 227); 
+    background-color: rgb(98, 98, 214);
+    height: 30px; width: 1200px;  
+    margin-top: 10px; margin-left: 110px; 
+    cursor: pointer;
+    border: thin;
+    
+}
+
+.img1{
+    display: inline-block; 
+    height: 70px; 
+    width: 350px;
+    
+}
+a:link {
+    text-decoration: none;
+}
+
+.b10
+{
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    width: 1430px ;
+    font-family: Stylish    ;
+    
+}
+
+.b11{
+
+    margin-left: 250px;
+    margin-top: -5px;
+    margin-right: 180px;
+    color: rgb(48, 46, 46);
+    font-size: 1.7ch;
+}
+
+.Third{
+
+    background-color:   rgb(98, 98, 214);
+    height: 850px;
+    width: 1420px;
+    margin-left: -8px;
+    margin-top: -8px;
+    display: inline-block;
+    
+} 
+
+.c1
+{
+    margin-left: 2px;
+    background-color: rgb(98, 98, 214);
+    height: 100px;
+    width: 340px;
+    margin-top: 100px;
+    display: inline-block;
+} 
+.b12
+{
+    width: 100px;
+}
